@@ -1,0 +1,17 @@
+{
+    "name": "sevillana-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Brownfox"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/sevillana-bower.git"
+    },
+    "description": "Sevillana font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
